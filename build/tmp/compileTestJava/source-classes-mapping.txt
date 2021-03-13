@@ -1,0 +1,30 @@
+web/steps/AddingAItemSteps.java
+ web.steps.AddingAItemSteps
+web/LogInCapabilityRunner.java
+ web.LogInCapabilityRunner
+web/steps/AddingAItemStepDefinition.java
+ web.steps.AddingAItemStepDefinition
+web/pages/AddingAItem.java
+ web.pages.AddingAItem
+web/RegisterCapabilityRunner.java
+ web.RegisterCapabilityRunner
+Google.java
+ Google
+web/steps/SignInStepDefinition.java
+ web.steps.SignInStepDefinition
+OldStyle.java
+ OldStyle
+web/pages/SignUpPage.java
+ web.pages.SignUpPage
+web/steps/SignInSteps.java
+ web.steps.SignInSteps
+web/steps/SignUpSteps.java
+ web.steps.SignUpSteps
+web/steps/SignUpStepDefinition.java
+ web.steps.SignUpStepDefinition
+web/pages/SignInPage.java
+ web.pages.SignInPage
+web/BackgroundRunner.java
+ web.BackgroundRunner
+web/AddItemRunner.java
+ web.AddItemRunner

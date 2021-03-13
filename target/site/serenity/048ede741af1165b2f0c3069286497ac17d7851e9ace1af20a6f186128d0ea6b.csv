@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"register feature","Can't create new account with non unique email.","FAILURE","2021-02-28T10:45:56.2996468+02:00[Europe/Athens]","0.0","124.3"
